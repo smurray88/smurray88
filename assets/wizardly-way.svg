@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220" role="img" aria-label="Wizardly Way">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B19"/><stop offset="1" stop-color="#101C47"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="439" height="219" rx="14" fill="url(#g)" stroke="#2A3672"/>
+  <g><circle cx="431" cy="163" r="1.2" fill="#E6E9F5" opacity="0.42"/>
+    <circle cx="403" cy="10" r="0.8" fill="#E6E9F5" opacity="0.60"/>
+    <circle cx="200" cy="26" r="1" fill="#E6E9F5" opacity="0.79"/>
+    <circle cx="144" cy="28" r="0.8" fill="#E6E9F5" opacity="0.76"/>
+    <circle cx="4" cy="113" r="1.2" fill="#E6E9F5" opacity="0.32"/>
+    <circle cx="282" cy="35" r="1.2" fill="#E6E9F5" opacity="0.79"/>
+    <circle cx="435" cy="175" r="0.8" fill="#E6E9F5" opacity="0.49"/>
+    <circle cx="200" cy="66" r="1.2" fill="#E6E9F5" opacity="0.30"/>
+    <circle cx="378" cy="122" r="1" fill="#E6E9F5" opacity="0.56"/>
+    <circle cx="50" cy="33" r="1.2" fill="#E6E9F5" opacity="0.32"/>
+    <circle cx="147" cy="132" r="1.6" fill="#E6E9F5" opacity="0.47"/>
+    <circle cx="196" cy="186" r="1.2" fill="#E6E9F5" opacity="0.69"/>
+    <circle cx="9" cy="65" r="1" fill="#E6E9F5" opacity="0.55"/>
+    <circle cx="363" cy="78" r="1" fill="#E6E9F5" opacity="0.58"/>
+    <circle cx="244" cy="62" r="1.2" fill="#E6E9F5" opacity="0.61"/>
+    <circle cx="390" cy="212" r="1.2" fill="#E6E9F5" opacity="0.26"/>
+    <circle cx="380" cy="26" r="0.6" fill="#E6E9F5" opacity="0.39"/>
+    <circle cx="409" cy="92" r="1.2" fill="#E6E9F5" opacity="0.69"/>
+    <circle cx="319" cy="175" r="1" fill="#E6E9F5" opacity="0.54"/>
+    <circle cx="144" cy="122" r="1" fill="#E6E9F5" opacity="0.86"/>
+    <circle cx="315" cy="197" r="1" fill="#E6E9F5" opacity="0.62"/>
+    <circle cx="313" cy="4" r="1" fill="#E6E9F5" opacity="0.54"/>
+    <circle cx="198" cy="167" r="1" fill="#E6E9F5" opacity="0.65"/>
+    <circle cx="314" cy="15" r="1.6" fill="#E6E9F5" opacity="0.48"/>
+    <circle cx="352" cy="197" r="0.6" fill="#E6E9F5" opacity="0.61"/>
+    <circle cx="368" cy="51" r="0.6" fill="#E6E9F5" opacity="0.77"/>
+    <circle cx="408" cy="168" r="1.2" fill="#E6E9F5" opacity="0.39"/>
+    <circle cx="78" cy="196" r="1.2" fill="#E6E9F5" opacity="0.58"/></g>
+  <g transform="translate(372,56)" fill="none" stroke="#6366F1"><circle r="26" stroke-opacity=".7"/><circle r="16" stroke-opacity=".45"/><path d="M0-34V34M-34 0H34" stroke-opacity=".35"/><circle r="3" fill="#C7C9FF" stroke="none"/></g>
+  <text x="32" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#F2F3FA">Wizardly Way</text>
+  <text x="32" y="90" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B8EF5">Location-based fantasy RPG, in development</text>
+  <text x="32" y="120" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A9B0D6">Your real neighborhood becomes a world where</text><text x="32" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A9B0D6">magic has returned. Explore, battle monsters,</text><text x="32" y="168" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A9B0D6">master spells, and team up in guilds.</text>
+</svg>
